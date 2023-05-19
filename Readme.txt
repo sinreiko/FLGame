@@ -1,0 +1,2 @@
+Scope* One scene: player’s house* Moving the character around in 2D Space – use W,A,S,D or arrow keys* Complete day-to-day taskso Spending an item o Making the right choice - skipped* Get rewardedLimitation:
+Can't move on android
